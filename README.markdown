@@ -5,3 +5,10 @@ By Dan Quellhorst (dan@abtain.com)
 
 This is the minimum viable blog. Comments are not currently supported.
 Code is being used from the HTML5Boilerplate project.
+
+Deploying
+---------
+
+Step 1: Signup for [Heroku](http://www.heroku.com/)
+
+Step 2: Customize config/settings.yml

@@ -12,3 +12,12 @@ Deploying
 Step 1: Signup for [Heroku](http://www.heroku.com/)
 
 Step 2: Customize config/settings.yml
+
+Step 3: Configure Heroku
+
+    $ sudo gem install heroku
+    $ heroku create myblog
+
+Step 4: Deploy
+
+    $ git push heroku master

@@ -21,3 +21,6 @@ Step 3: Configure Heroku
 Step 4: Deploy
 
     $ git push heroku master
+
+Step 5: Visit your site
+    [http://myblog.heroku.com](http://myblog.heroku.com)
